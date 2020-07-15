@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thehyve/react-json-to-table.git"
+    "url": "git+https://github.com/sunkd/react-json-to-table.git"
   },
   "author": "Riza Nugraha <rnugraha@gmail.com> (https://about.me/riza.nugraha)",
   "license": "GPL-3.0",
@@ -59,7 +59,7 @@
   "files": [
     "build/lib"
   ],
-  "publishConfig": { "registry": "https://npm.pkg.github.com/@sunkdavey" },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/@sunkd" },
   "keywords": [
     "react",
     "json",
