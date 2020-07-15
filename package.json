@@ -59,7 +59,7 @@
   "files": [
     "build/lib"
   ],
-  "publishConfig": { "registry": "https://npm.pkg.github.com/@SunKD" },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/@sunkdavey" },
   "keywords": [
     "react",
     "json",
